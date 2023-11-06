@@ -28,8 +28,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [repository]( )
--   Live Site URL: [e-commerce-product-page]( )
+-   Solution URL: [repository](https://github.com/TTsintsadze/ecommerce-product-page-master)
 
 Local storage usage
 
